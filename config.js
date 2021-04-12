@@ -56,6 +56,7 @@ module.exports = () => ({
         sql: joi.object({
             exclude: joi.any()
         }),
+        smtp: joi.object(),
         sqlStandard: [
             joi.boolean(),
             joi.object({
