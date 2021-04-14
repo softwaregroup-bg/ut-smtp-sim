@@ -1,5 +1,6 @@
 const test = {
     smtp: {
+        port: 8025,
         hook: 'smtpSim',
         server: {
             disabledCommands: ['STARTTLS']
