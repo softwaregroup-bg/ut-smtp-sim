@@ -4,7 +4,7 @@
     "main": "index.js",
     "dependencies": {
         "ut-port-script": "^7.0.2",
-        "ut-port-smtp": "^7.0.0"
+        "ut-port-smtp": "^7.0.6"
     },
     "devDependencies": {
         "tap": "^12.5.3",
