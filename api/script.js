@@ -4,6 +4,7 @@ module.exports = (...params) => class smtpSim extends require('ut-port-script')(
             namespace: 'smtpSim'
         };
     }
+
     handlers() {
         return {
             [`${this.config.namespace}.identity.check`]: msg => {
