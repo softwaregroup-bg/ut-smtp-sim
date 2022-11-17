@@ -1,3 +1,12 @@
+## [7.1.5](https://github.com/softwaregroup-bg/ut-smtp-sim/compare/v7.1.4...v7.1.5) (2022-11-17)
+
+
+### Bug Fixes
+
+* option to disable smtp port ([d8d0bb4](https://github.com/softwaregroup-bg/ut-smtp-sim/commit/d8d0bb467eec60bb60fa0094e8681ad832900800))
+
+
+
 ## [7.1.4](https://github.com/softwaregroup-bg/ut-smtp-sim/compare/v7.1.3...v7.1.4) (2022-03-23)
 
 
