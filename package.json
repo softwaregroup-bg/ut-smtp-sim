@@ -1,6 +1,6 @@
 {
     "name": "ut-smtp-sim",
-    "version": "7.1.5",
+    "version": "7.1.6",
     "main": "index.js",
     "dependencies": {
         "ut-port-smtp": "^7.0.7"
